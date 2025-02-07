@@ -1,6 +1,6 @@
 # Random Monitors  
 
-These are some of the monitors I created a few years ago to track new product releases, such as **PlayStation 5 consoles** and **various sneaker drops**, back when the market was still highly competitive.  
+These are some of the monitors I created a few years ago to track new product releases and restocks, such as **PlayStation 5 consoles** and **various sneaker drops**, back when the market was still highly competitive.  
 
 ## How to Use  
 
